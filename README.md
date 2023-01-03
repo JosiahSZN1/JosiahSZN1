@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JosiahSZN1
 - 👀 I’m interested in creating reactive visuals for live music performance, art installation, and advertisement.
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
