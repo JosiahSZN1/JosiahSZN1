@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JosiahSZN1
-- 👀 I’m interested in creating responsive visuals for live music performance, art installation, and advertisement.
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate ...
-- 📫 How to reach me ...
+- 👀 I’m interested in creating software for generating sound reactive visual representation.
+- 🌱 I’m currently learning PHP.
+- 💞️ I’m looking to collaborate with...
+- 📫 How to reach me via email: lejosiahm@gmail.com
 
 <!---
 JosiahSZN1/JosiahSZN1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
